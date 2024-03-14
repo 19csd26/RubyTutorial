@@ -3,7 +3,7 @@ Ruby variables are locations which hold data to be used in the programs. Each va
 
 ## There are four types of variables in Ruby:
 
-  Local variables
-  Class variables
-  Instance variables
-  Global variables
+  1.Local variables
+  2.Class variables
+  3.Instance variables
+  4.Global variables
