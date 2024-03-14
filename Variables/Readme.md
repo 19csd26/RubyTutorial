@@ -21,4 +21,4 @@ Ruby variables are locations which hold data to be used in the programs. Each va
 
 Local variables are confined to the scope in which they are defined, such as a method or block.
 They start with a lowercase letter or an underscore (_) character.<br/>
-Example: `puts "Hello, world!"`
+Example: `name = "John"`
