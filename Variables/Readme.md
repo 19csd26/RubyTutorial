@@ -7,3 +7,7 @@ Ruby variables are locations which hold data to be used in the programs. Each va
   2.Class variables
   3.Instance variables
   4.Global variables
+
+<p align="center">
+  <img src="ruby-variables.png" alt="Image" width="200">
+</p>
