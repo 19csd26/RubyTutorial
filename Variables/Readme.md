@@ -11,3 +11,7 @@ Ruby variables are locations which hold data to be used in the programs. Each va
 <p align="center">
   <img src="ruby-variables.png" alt="Image" >
 </p>
+
+<p align="center">
+  <img src="VAR.png" alt="Image" width="70%">
+</p>
